@@ -1,0 +1,5 @@
+/* 标签页样式 */
+.tabbrowser-tab {
+  border-radius: 8px 8px 0 0;
+  margin: 0 2px;
+}
