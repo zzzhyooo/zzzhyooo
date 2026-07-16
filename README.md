@@ -1,7 +1,7 @@
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/3cddb35e-ea52-41c7-8e20-f7bb0e3524a3">
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ab43781e-f42d-4a0c-820d-cef274d20a12">
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/b0a36d48-9e65-4aca-bc58-cd9275e32cd7">
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ca022009-a99f-4f47-ad78-9a9ee2edf505">
 <img alt="Preview">
 </picture>
 </div>
@@ -38,7 +38,7 @@ Create these preferences in `about:config` to modify the UI:
 
 | Preference | Description | Notes |
 | :--- | :--- | :--- |
-| `gwfox.toolbar` | Auto hide bookmarks toolbar | |
+| `gwfox.toolbar` | Auto-hide bookmarks toolbar | |
 | `gwfox.urlbar` | Move address bar to sidebar | Sidebar expanded (not hover to expand) |
 | `gwfox.blur` | Add acrylic effect to the floating panel | |
 | `gwfox.ac` | Enable accent color | Edit `--bg0` in CSS to customize |
@@ -49,6 +49,7 @@ Create these preferences in `about:config` to modify the UI:
 | `gwfox.icons` | Add menu icons | |
 | `gwfox.mwc` | Enable macOS-style window controls  | Windows/Linux |
 | `gwfox.msc` | Enable macOS-style tab close button | |
+| `gwfox.fsi` | Enable FluentUI System Icons | [Source](https://github.com/microsoft/fluentui-system-icons) |
 
 
 ### Numerical Settings
