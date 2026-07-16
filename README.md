@@ -1,7 +1,7 @@
 <div align="center">
 <picture>
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/b0a36d48-9e65-4aca-bc58-cd9275e32cd7">
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ca022009-a99f-4f47-ad78-9a9ee2edf505">
+<source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/4872de2b-0abf-42cf-91e1-c7289f31adbf">
+<source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/7081f06a-24a9-4c44-82f9-5471cedd082d">
 <img alt="Preview">
 </picture>
 </div>
