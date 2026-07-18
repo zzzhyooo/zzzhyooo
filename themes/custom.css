@@ -1,0 +1,18 @@
+/* 自定义主题变量 */
+:root {
+  /* 主色调 */
+  --primary: #4a90e2;
+  --primary-hover: #357abd;
+  
+  /* 背景色 */
+  --bg-primary: #ffffff;
+  --bg-secondary: #f8f9fa;
+  
+  /* 文字颜色 */
+  --text-primary: #333333;
+  --text-secondary: #666666;
+  
+  /* 边框 */
+  --border-color: #e1e4e8;
+  --border-radius: 6px;
+}
